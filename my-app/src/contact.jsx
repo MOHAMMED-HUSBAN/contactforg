@@ -58,7 +58,7 @@ const ContactUs = () => {
         </div>
       </div>
 
-      {/* Contact Us Section */}
+     
       <div className="flex-1 text-white py-12 px-4 md:px-8 bg-black bg-opacity-5 flex justify-center items-center">
         <div className="bg-gray-900 bg-opacity-5 p-6 rounded-lg shadow-lg w-full max-w-lg">
           <h2 className="text-2xl font-bold mb-4 text-center">We're listening! Contact us with feedback or suggestions</h2>
